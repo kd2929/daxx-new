@@ -1,4 +1,11 @@
 pyrogram==2.0.106
+motor
+pyromod
+requests
+wget
+hachoir
+cloudscraper
+pycryptodome
 tgcrypto
 requests
 pyromod==1.5
