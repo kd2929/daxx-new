@@ -1,12 +1,15 @@
-pyrogram
-aiohttp
-motor
+pyrogram==2.0.106
 tgcrypto
-yt-dlp
-pyromod
-aiofiles
 requests
-wget
-hachoir
-cloudscraper
-pycryptodome
+pyromod==1.5
+yt-dlp @ git+https://github.com/HellBoy-OP/yt-dp-fork.git@af1fd12f675220df6793fc019dff320bc76e8080
+ffmpeg
+aiohttp
+aiofiles
+asyncio
+pycurl
+humanize
+cryptg
+python-decouple
+python-dotenv[cli]
+python-dotenv
